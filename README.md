@@ -1,4 +1,4 @@
-#SQL PROJECT ON CENSUS OF INDIA 2011 DATASETS
+
 
 Performed comprehensive data analysis on the 2011 Indian census datasets using MySQL, demonstrating strong proficiency in database querying and management.
 
